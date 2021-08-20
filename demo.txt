@@ -1,2 +1,5 @@
 demofile
+<<<<<<< HEAD
 second line in the demo file
+thirf line in the demo1 branch
+>>>>>>> demo1
